@@ -1,5 +1,3 @@
-# Virtual-Control-Gesture-Mouse
-A touchless virtual mouse using hand gestures, built with Python, OpenCV, and MediaPipe. Controls cursor, click, scroll, volume, and brightness through real-time hand tracking.
 🖱️ Virtual Gesture Control Mouse
 A computer interaction system that uses hand gestures to control mouse functions virtually — without touching any physical hardware. Built using Python, OpenCV, and MediaPipe, this project detects and tracks hand gestures via webcam to perform actions like:
 
